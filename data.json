@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Virat Kohli\nRCB",
+    "runs": 741,
+    "strikeRate": 154,
+    "Centuries": 1,
+    "Fifties": 5,
+    "Fours": 62,
+    "ballFaced": 479
+  },
+  {
+    "name": "Ruturaj Gaikwad\nCSK",
+    "runs": 583,
+    "strikeRate": 141,
+    "Centuries": 1,
+    "Fifties": 4,
+    "Fours": 58,
+    "ballFaced": 413
+  },
+  {
+    "name": "Riyan Parag\nRR",
+    "runs": 573,
+    "strikeRate": 149,
+    "Centuries": 0,
+    "Fifties": 4,
+    "Fours": 40,
+    "ballFaced": 384
+  },
+  {
+    "name": "Travis Head\nSRH",
+    "runs": 567,
+    "strikeRate": 191,
+    "Centuries": 1,
+    "Fifties": 4,
+    "Fours": 64,
+    "ballFaced": 296
+  },
+  {
+    "name": "Sanju Samson\nRR",
+    "runs": 531,
+    "strikeRate": 153,
+    "Centuries": 0,
+    "Fifties": 5,
+    "Fours": 48,
+    "ballFaced": 346
+  },
+  {
+    "name": "Sai Sudharsan\nGT",
+    "runs": 527,
+    "strikeRate": 141,
+    "Centuries": 1,
+    "Fifties": 2,
+    "Fours": 48,
+    "ballFaced": 373
+  },
+  {
+    "name": "K L Rahul\nLSG",
+    "runs": 520,
+    "strikeRate": 136,
+    "Centuries": 0,
+    "Fifties": 4,
+    "Fours": 45,
+    "ballFaced": 382
+  },
+  {
+    "name": "Nicholas Pooran\nLSG",
+    "runs": 499,
+    "strikeRate": 178,
+    "Centuries": 0,
+    "Fifties": 3,
+    "Fours": 35,
+    "ballFaced": 280
+  },
+  {
+    "name": "Sunil Narine\nKKR",
+    "runs": 488,
+    "strikeRate": 180,
+    "Centuries": 1,
+    "Fifties": 3,
+    "Fours": 50,
+    "ballFaced": 270
+  },
+  {
+    "name": "Abhishek Sharma\nSRH",
+    "runs": 484,
+    "strikeRate": 204,
+    "Centuries": 0,
+    "Fifties": 3,
+    "Fours": 36,
+    "ballFaced": 237
+  },
+  {
+    "name": "Heinrich Klaasen\nSRH",
+    "runs": 479,
+    "strikeRate": 171,
+    "Centuries": 0,
+    "Fifties": 4,
+    "Fours": 19,
+    "ballFaced": 280
+  },
+  {
+    "name": "Rishabh Pant\nDC",
+    "runs": 446,
+    "strikeRate": 155,
+    "Centuries": 0,
+    "Fifties": 3,
+    "Fours": 36,
+    "ballFaced": 287
+  },
+  {
+    "name": "Faf Du Plessis\nRCB",
+    "runs": 438,
+    "strikeRate": 161,
+    "Centuries": 0,
+    "Fifties": 4,
+    "Fours": 47,
+    "ballFaced": 271
+  },
+  {
+    "name": "Phil Salt\nKKR",
+    "runs": 435,
+    "strikeRate": 182,
+    "Centuries": 0,
+    "Fifties": 4,
+    "Fours": 50,
+    "ballFaced": 239
+  },
+  {
+    "name": "Yashasvi Jaiswal\nRR",
+    "runs": 435,
+    "strikeRate": 155,
+    "Centuries": 1,
+    "Fifties": 1,
+    "Fours": 54,
+    "ballFaced": 279
+  },
+  {
+    "name": "Shubman Gill\nGT",
+    "runs": 426,
+    "strikeRate": 147,
+    "Centuries": 1,
+    "Fifties": 2,
+    "Fours": 37,
+    "ballFaced": 289
+  },
+  {
+    "name": "Rohit Sharma\nMI",
+    "runs": 417,
+    "strikeRate": 150,
+    "Centuries": 1,
+    "Fifties": 1,
+    "Fours": 45,
+    "ballFaced": 278
+  },
+  {
+    "name": "Tilak Varma\nMI",
+    "runs": 416,
+    "strikeRate": 149,
+    "Centuries": 0,
+    "Fifties": 3,
+    "Fours": 35,
+    "ballFaced": 278
+  },
+  {
+    "name": "Shivam Dube\nCSK",
+    "runs": 396,
+    "strikeRate": 162,
+    "Centuries": 0,
+    "Fifties": 3,
+    "Fours": 28,
+    "ballFaced": 244
+  },
+  {
+    "name": "Rajat Patidar\nRCB",
+    "runs": 395,
+    "strikeRate": 177,
+    "Centuries": 0,
+    "Fifties": 5,
+    "Fours": 21,
+    "ballFaced": 223
+  }
+]
